@@ -1,0 +1,59 @@
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+h4 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+}
+
+body {
+    height: 400px;
+    background-image: 
+    url("https://images.wallpapersden.com/image/download/punisher-4k-art_a2xuZWiUmZqaraWkpJRmZW1lrWdpZWU.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    
+}
+
+img {
+    width: 400px;
+}
+
+#thirdDiv {
+    position: relative;
+    left: 225px;
+    height: 600px;
+    width: 500px;
+    background-color: green;
+    padding: 50px;
+    border: 12px solid aqua;
+}
+
+#spanId {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: aliceblue;
+    font-size: 18px;
+    margin: 50px;
+}
+
+a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
